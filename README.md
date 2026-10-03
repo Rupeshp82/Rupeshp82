@@ -91,3 +91,18 @@ In 2024, I gained practical exposure to Python and FastAPI while working with a 
 I also explored backend development by working on a small FastAPI project, which helped me become familiar with concepts such as API development, authentication, and backend application structure.
 
 My current focus is networking, while Python remains a supporting skill that I plan to continue developing.
+
+## 🎯 Learning Approach
+
+I learn best by building things and solving problems hands-on.
+
+My approach is:
+
+**Build → Configure → Test → Break → Troubleshoot → Document**
+
+I use this process to turn networking concepts into practical experience and continuously improve my understanding of network infrastructure.
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Rupesh Pailkar](https://www.linkedin.com/in/rupesh-pailkar-479953182/)
+- 📂 GitHub: [@Rupeshp82](https://github.com/Rupeshp82)
