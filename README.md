@@ -46,3 +46,23 @@ I believe in learning by building, testing, breaking, troubleshooting, and docum
 
 - Python 
 - FastAPI 
+
+## 🚀 Projects
+
+### Cisco Packet Tracer Labs
+
+Hands-on networking labs focused on building, configuring, testing, and troubleshooting Cisco networks.
+
+📂 **Repository:** [cisco-packet-tracer-labs](https://github.com/Rupeshp82/cisco-packet-tracer-labs)
+
+#### Current Projects
+
+- **Lab 01 — Static Routing Between Two LANs**
+  - Configured two Cisco routers and two separate LANs
+  - Configured IPv4 addressing and router interfaces
+  - Implemented static routing
+  - Verified routing tables and end-to-end connectivity
+  - Troubleshot and corrected a default gateway misconfiguration
+  - Documented the complete lab and topology
+
+I will add more networking labs and larger network projects as I continue learning.
