@@ -81,3 +81,13 @@ I will add more networking labs and larger network projects as I continue learni
 - Developing practical routing and switching skills
 - Learning VLANs, inter-VLAN routing, DHCP, NAT, STP, EtherChannel, and OSPF
 - Practicing network troubleshooting and documentation
+
+## 💻 Additional Experience
+
+### Python & FastAPI
+
+In 2024, I gained practical exposure to Python and FastAPI while working with a startup company in the Czech Republic.
+
+I also explored backend development by working on a small FastAPI project, which helped me become familiar with concepts such as API development, authentication, and backend application structure.
+
+My current focus is networking, while Python remains a supporting skill that I plan to continue developing.
