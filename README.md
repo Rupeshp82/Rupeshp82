@@ -17,3 +17,32 @@ Currently focused on developing practical skills in:
 I believe in learning by building, testing, breaking, troubleshooting, and documenting real network scenarios.
 
 📚 Currently building a hands-on Cisco networking portfolio with progressively challenging labs and projects.
+
+## 🛠️ Technical Skills
+
+### Networking
+
+- Cisco Packet Tracer
+- Cisco IOS CLI
+- IPv4 Addressing
+- Subnetting
+- Switching & Routing
+- Static Routing
+- Network Troubleshooting
+- Network Documentation
+
+### Currently Learning
+
+- VLANs
+- Inter-VLAN Routing
+- DHCP
+- NAT / PAT
+- STP
+- EtherChannel
+- OSPF
+- Network Security
+
+### Programming
+
+- Python 
+- FastAPI 
