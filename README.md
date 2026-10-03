@@ -1,10 +1,10 @@
-## Hi, I'm Rupesh 👋
+# Hi, I'm Rupesh 👋
 
 ### Networking Enthusiast | Cisco | Network Infrastructure
 
 I'm building my career in networking through hands-on labs, practical troubleshooting, and network design using Cisco Packet Tracer.
 
-Currently focused on developing practical skills in:
+My current focus is developing practical skills in:
 
 - 🌐 Networking fundamentals
 - 🔀 Switching and routing
@@ -12,11 +12,8 @@ Currently focused on developing practical skills in:
 - 📡 VLANs and inter-VLAN routing
 - 🔧 Network troubleshooting
 - 💻 Cisco IOS CLI
-- 🐍 Python and FastAPI — developing skills
 
-I believe in learning by building, testing, breaking, troubleshooting, and documenting real network scenarios.
-
-📚 Currently building a hands-on Cisco networking portfolio with progressively challenging labs and projects.
+I also have previous experience with Python and FastAPI and continue to develop these skills as a supporting area.
 
 ## 🛠️ Technical Skills
 
@@ -44,28 +41,27 @@ I believe in learning by building, testing, breaking, troubleshooting, and docum
 
 ### Programming
 
-- Python 
-- FastAPI 
+- Python
+- FastAPI
 
 ## 🚀 Projects
 
 ### Cisco Packet Tracer Labs
 
-Hands-on networking labs focused on building, configuring, testing, and troubleshooting Cisco networks.
+Hands-on networking labs focused on building, configuring, testing, troubleshooting, and documenting Cisco networks.
 
 📂 **Repository:** [cisco-packet-tracer-labs](https://github.com/Rupeshp82/cisco-packet-tracer-labs)
 
-#### Current Projects
+#### Lab 01 — Static Routing Between Two LANs
 
-- **Lab 01 — Static Routing Between Two LANs**
-  - Configured two Cisco routers and two separate LANs
-  - Configured IPv4 addressing and router interfaces
-  - Implemented static routing
-  - Verified routing tables and end-to-end connectivity
-  - Troubleshot and corrected a default gateway misconfiguration
-  - Documented the complete lab and topology
+- Configured two Cisco routers and two separate LANs
+- Configured IPv4 addressing and router interfaces
+- Implemented static routing
+- Verified routing tables and end-to-end connectivity
+- Troubleshot and corrected a default gateway misconfiguration
+- Documented the complete lab and topology
 
-I will add more networking labs and larger network projects as I continue learning.
+More networking labs and larger network projects will be added as I continue learning.
 
 ## 📚 Certifications & Learning
 
@@ -77,10 +73,7 @@ I will add more networking labs and larger network projects as I continue learni
 
 ### Current Learning
 
-- Building hands-on Cisco networking labs
-- Developing practical routing and switching skills
-- Learning VLANs, inter-VLAN routing, DHCP, NAT, STP, EtherChannel, and OSPF
-- Practicing network troubleshooting and documentation
+Building progressively more advanced Cisco networking labs covering routing, switching, VLANs, network services, security, and troubleshooting.
 
 ## 💻 Additional Experience
 
@@ -88,7 +81,7 @@ I will add more networking labs and larger network projects as I continue learni
 
 In 2024, I gained practical exposure to Python and FastAPI while working with a startup company in the Czech Republic.
 
-I also explored backend development by working on a small FastAPI project, which helped me become familiar with concepts such as API development, authentication, and backend application structure.
+I also explored backend development through a small FastAPI project, gaining familiarity with API development, authentication, and backend application structure.
 
 My current focus is networking, while Python remains a supporting skill that I plan to continue developing.
 
