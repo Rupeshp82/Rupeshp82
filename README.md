@@ -66,3 +66,18 @@ Hands-on networking labs focused on building, configuring, testing, and troubles
   - Documented the complete lab and topology
 
 I will add more networking labs and larger network projects as I continue learning.
+
+## 📚 Certifications & Learning
+
+### Cisco Networking Academy
+
+- Networking Fundamentals / Basic Networking Certification
+- Hands-on practice with Cisco Packet Tracer
+- Networking fundamentals, IPv4 addressing, switching, routing, and troubleshooting
+
+### Current Learning
+
+- Building hands-on Cisco networking labs
+- Developing practical routing and switching skills
+- Learning VLANs, inter-VLAN routing, DHCP, NAT, STP, EtherChannel, and OSPF
+- Practicing network troubleshooting and documentation
